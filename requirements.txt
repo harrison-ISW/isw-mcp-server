@@ -1,4 +1,3 @@
 fastapi
-fastapi_mcp
+fastmcp
 feedparser
-uvicorn
